@@ -1,0 +1,3 @@
+/Users/patrick/Desktop/dev/Morphology_Operations/cmake-build-debug/CMakeFiles/Morphology_Operations.dir
+/Users/patrick/Desktop/dev/Morphology_Operations/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/patrick/Desktop/dev/Morphology_Operations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
